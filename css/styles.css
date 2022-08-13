@@ -11430,14 +11430,20 @@ section.cta:before {
   background: rgba(0, 0, 0, 0.5);
 }
 
+.samtale-heading {
+  margin-top: 1.5rem;
+}
+
 .icon-feature {
   font-size: 4rem;
 }
 
 .features-device-mockup {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;  
+  /* align-items: center; */
+  /* justify-content: center; */
   position: relative;
 }
 .features-device-mockup .circle {
