@@ -11412,7 +11412,9 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800");
+  background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.92), rgba(117, 19, 93, 0.33)),
+   url("../assets/img/lars_footer.jpg");
+  /* background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800"); */
   background-position: center;
   background-size: cover;
 }
